@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+D:/python_env/
+D:/pip_cache/
+D:/mpl_cache/
+
+# Java compiled files (optional: remove next 2 lines if you want .class files included)
+# 3_java_programming/bin/
+
+# SQLite database (keep if you want pre-seeded data on GitHub)
+# *.db
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
